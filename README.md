@@ -7,9 +7,13 @@ Email Me 👉 ✉️ **kaushalaman1225@gmail.com** for collaboration, projects, 
 
 ## 🌐 Portfolio
 🚀 A deeper look into my projects, system designs, and real-world implementations  
-🔗 (https://aman-portfolio-phi-sepia.vercel.app/)  
+🔗 https://your-portfolio-link.com  
 
----
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 - 🔭 **I’m currently working on:**  
   Building a **Coding Platform for JKLU CodeCampus** – scalable system for coding contests, submissions, evaluation, and real-time performance tracking  
@@ -146,3 +150,8 @@ Dimensionality reduction & recommendation system
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco)
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aman018-gif&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
+![](https://github-readme-stats.shion.dev/api?username=Aman018-gif&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://streak-stats.demolab.com/?user=Aman018-gif&theme=dark&hide_border=false)<br/>
+
