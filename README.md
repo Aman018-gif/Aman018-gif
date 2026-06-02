@@ -157,11 +157,6 @@ Dimensionality reduction & recommendation system
 
 ---
 # 📊 GitHub Stats:
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aman018-gif&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aman018-gif&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.shion.dev/api?username=Aman018-gif&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=Aman018-gif&theme=dark&hide_border=false)<br/>
