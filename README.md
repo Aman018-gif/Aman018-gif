@@ -9,22 +9,28 @@ Email Me 👉 ✉️ **kaushalaman1225@gmail.com** for collaboration, projects, 
 🚀 A deeper look into my projects, system designs, and real-world implementations  
 🔗 https://aman-portfolio-q25f.vercel.app/ 
 
+## 💼 LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kaushal-889b072a7)
+
+## 🧩 LeetCode
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aman_kaushal_007/)
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-- 🔭 **I’m currently working on:**  
+- 🔭 **I'm currently working on:**  
   Building a **Coding Platform for JKLU CodeCampus** – scalable system for coding contests, submissions, evaluation, and real-time performance tracking  
 
-- 🌱 **I’m currently learning:**  
+- 🌱 **I'm currently learning:**  
   Advanced **System Design**, **LLM Integration**, and **Scalable Backend Architectures (Redis, Kafka basics)**  
 
-- 👯 **I’m looking to collaborate on:**  
+- 👯 **I'm looking to collaborate on:**  
   Real-world **Full Stack / AI-integrated products** (especially logistics, transport, or large-scale systems)  
 
-- 🤔 **I’m looking for help with:**  
+- 🤔 **I'm looking for help with:**  
   Designing **high-scale distributed systems** and improving **ML model deployment pipelines**  
 
 - 💬 **Ask me about:**  
@@ -41,7 +47,7 @@ Email Me 👉 ✉️ **kaushalaman1225@gmail.com** for collaboration, projects, 
 ---
 
 ### ✍️ Dev Quote
-> “First solve the problem. Then, write the code.” – John Johnson  
+> "First solve the problem. Then, write the code." – John Johnson  
 
 ---
 
@@ -151,7 +157,11 @@ Dimensionality reduction & recommendation system
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aman018-gif&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aman018-gif&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
 ![](https://github-readme-stats.shion.dev/api?username=Aman018-gif&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=Aman018-gif&theme=dark&hide_border=false)<br/>
-
