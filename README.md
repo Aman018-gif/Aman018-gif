@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **kaushalaman1225@gmail.com** for collaboration, projects, or opportunities  
 
---- 
+---    
 
 ## 🌐 Portfolio
 🚀 A deeper look into my projects, system designs, and real-world implementations  
